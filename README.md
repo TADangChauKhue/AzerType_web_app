@@ -47,8 +47,8 @@ The app follows this process:
 
 ## Key Features
 
-- 🎯 Choose between words and sentences
-- ✅ Real-time scoring and feedback
-- 📧 Share your score via email (with name & email validation)
-- 🔒 Input validation and error handling
-- 📱 Responsive design, accessible on any browser
+- Choose between words and sentences
+- Real-time scoring and feedback
+- Share your score via email (with name & email validation)
+- Input validation and error handling
+- Responsive design, accessible on any browser
