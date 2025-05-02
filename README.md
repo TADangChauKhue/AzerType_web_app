@@ -45,6 +45,8 @@ The app follows this process:
 
 *Main interface showing mode selection, input zone, and score tracking*
 
+![image](https://github.com/user-attachments/assets/33a00499-8045-48ac-ab05-98e39162422d)
+
 ## Key Features
 
 - Choose between words and sentences
