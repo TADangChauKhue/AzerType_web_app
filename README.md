@@ -1,6 +1,7 @@
 # AzerType_web_app
 
 AzerType is a web-based interactive application designed to help users improve their typing speed and accuracy through dynamic typing practice sessions.
+
 https://azer-type-web-app.vercel.app/
 
 ## Introduction
